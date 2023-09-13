@@ -14,7 +14,7 @@ An offline camera app built with PWA without any native framework.
 
 ## Installation
 
-[![launch now](https://user-images.githubusercontent.com/14951000/112782686-2f608380-9080-11eb-970e-b1ba58cfd509.png)](https://seanwu1105.github.io/ionic-pwa-example-moment)
+[![launch now](https://user-images.githubusercontent.com/14951000/112782686-2f608380-9080-11eb-970e-b1ba58cfd509.png)](https://pleckey.github.io/ionic-pwa-example-moment)
 
 ## Design
 
